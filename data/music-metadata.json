@@ -1,0 +1,21 @@
+[
+  {
+    "filename": "example.mp3",
+    "title": "CRT Days",
+    "artist": "Waveshaper",
+    "album": "Drift Radio",
+    "cover": "/covers/crt-days.jpg",
+    "duration": 210,
+    "genre": "Synthwave"
+  },
+  {
+    "filename": "example2.ogg",
+    "title": "Neon City",
+    "artist": "Biodrive",
+    "album": "Cyberpunk Collection",
+    "cover": "/covers/neon-city.jpg",
+    "duration": 185,
+    "genre": "Cyberpunk"
+  }
+]
+

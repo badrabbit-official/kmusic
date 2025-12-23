@@ -1,0 +1,4 @@
+# Place album cover images here
+# Supported formats: jpg, jpeg, png, webp
+# Reference them in music-metadata.json as "/covers/filename.jpg"
+
